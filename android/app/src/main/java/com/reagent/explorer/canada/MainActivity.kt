@@ -1,4 +1,4 @@
-package com.reagentexplorercanada
+package com.reagent.explorer.canada
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
