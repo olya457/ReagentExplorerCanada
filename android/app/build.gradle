@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.reagent.explorer.canada"
+    namespace "com.reagentcanadadiscoveryguide"
     defaultConfig {
-        applicationId "com.reagent.explorer.canada"
+        applicationId "com.reagentcanadadiscoveryguide"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

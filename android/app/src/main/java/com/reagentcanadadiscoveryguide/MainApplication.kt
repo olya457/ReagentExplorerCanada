@@ -1,4 +1,4 @@
-package com.reagent.explorer.canada
+package com.reagentcanadadiscoveryguide
 
 import android.app.Application
 import com.facebook.react.PackageList
